@@ -8,8 +8,8 @@ Link to dataset -: https://archive.ics.uci.edu/ml/datasets/heart+disease
 
 Machine Learning algorithms used:
 
-1.Logistic Regression (Scikit-learn)
-2.K-Nearest Neighbours (Scikit-learn)
-3.Random Forest (Scikit-learn)
+*1.Logistic Regression (Scikit-learn)
+*2.K-Nearest Neighbours (Scikit-learn)
+*3.Random Forest (Scikit-learn)
 
 Accuracy achieved: 88% (Logistic Regression)
