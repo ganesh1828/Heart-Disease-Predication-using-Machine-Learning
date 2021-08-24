@@ -7,7 +7,6 @@ I have implemented above algorithms using python programming in jupyter notebook
 Link to dataset -: https://archive.ics.uci.edu/ml/datasets/heart+disease
 
 Machine Learning algorithms used:
-
 <br/>1.Logistic Regression (Scikit-learn)
 <br/>2.K-Nearest Neighbours (Scikit-learn)
 <br/>3.Random Forest (Scikit-learn)
